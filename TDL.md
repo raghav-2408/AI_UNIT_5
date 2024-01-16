@@ -30,4 +30,5 @@ TD learning strikes a balance between exploration (trying new actions to discove
 TD learning has proven to be a versatile and powerful approach in reinforcement learning, making it suitable for a wide range of applications
 
 
+For more content, refer the below link :
 <a>https://www.engati.com/glossary/temporal-difference-learning#:~:text=Temporal%20Difference%20Learning%20aims%20to,Dynamic%20Programming%20(DP)%20method.</a>
