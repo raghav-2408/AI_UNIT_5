@@ -22,8 +22,12 @@ TD learning strikes a balance between exploration (trying new actions to discove
 
 - **Game Playing:** TD learning is widely used in game playing scenarios, where the agent learns to make decisions by interacting with the game environment.
 
+
 - **Robotics:** In robotics, TD learning can be applied for learning control policies and adapting to changing environments.
 
 - **Finance:** TD learning techniques are used in financial modeling to predict market trends and optimize trading strategies.
 
-TD learning has proven to be a versatile and powerful approach in reinforcement learning, making it suitable for a wide range of applications.
+TD learning has proven to be a versatile and powerful approach in reinforcement learning, making it suitable for a wide range of applications
+
+
+<a>https://www.engati.com/glossary/temporal-difference-learning#:~:text=Temporal%20Difference%20Learning%20aims%20to,Dynamic%20Programming%20(DP)%20method.</a>
