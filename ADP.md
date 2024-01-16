@@ -1,7 +1,4 @@
-# AI_UNIT_5
-
-
-## Adaptive Dynamic Programming (ADP) in AI
+# Adaptive Dynamic Programming (ADP) in AI
 
 Adaptive Dynamic Programming (ADP) is a branch of artificial intelligence (AI) and machine learning that focuses on developing algorithms capable of learning optimal control policies for complex systems. It combines concepts from reinforcement learning, dynamic programming, and approximation methods to handle problems where the system dynamics are not fully known or are too complex to model accurately.
 
